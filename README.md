@@ -1,5 +1,12 @@
 # stock-brokerage-dsa-system
 A web-based Stock Brokerage &amp; Management System demonstrating core Data Structures and Algorithms (BST, Merge Sort, Binary Search, Stack) using Python Flask.
+
+## 📸 Preview
+
+![DSA project](https://github.com/user-attachments/assets/487410de-42f8-4971-90df-a70d367f80c3)
+
+
+
 # 📈 Stock Brokerage & Management System (DSA Project)
 
 A web-based application built using **Python Flask** and **HTML/CSS/JavaScript** to demonstrate real-world applications of **Data Structures and Algorithms (DSA)**.
